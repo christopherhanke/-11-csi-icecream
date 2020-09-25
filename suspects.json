@@ -1,0 +1,33 @@
+{
+    "Eva": {
+        "gender": "female",
+        "race": "white",
+        "hair": "blonde",
+        "eye": "blue",
+        "face": "oval"
+    },
+
+    "Larisa": {
+        "gender": "female",
+        "race": "white",
+        "hair": "brown",
+        "eye": "brown",
+        "face": "oval"
+    },
+
+    "Matej": {
+        "gender": "male",
+        "race": "white",
+        "hair": "black",
+        "eye": "blue",
+        "face": "oval"
+    },
+
+    "Miha": {
+        "gender": "male",
+        "race": "white",
+        "hair": "brown",
+        "eye": "green",
+        "face": "square"
+    }
+}
